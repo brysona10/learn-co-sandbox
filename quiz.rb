@@ -57,7 +57,7 @@
         <div class="intro-text">
           <div class="intro-lead-in">Not Nuts About It!</div>
           <div class="intro-heading text-uppercase"> A Nut Free Site Dedicated to Foods Without Nuts!</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Take the Quiz!</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Take the Quiz to Find your perfect Snack!</a>
         </div>
       </div>
     </header>
@@ -67,7 +67,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Lookin' Good </h2>
+            <h2 class="section-heading text-uppercase">Not Nuts Adout It </h2>
             <h3 class="section-subheading text-muted">Find your brand!</h3>
           </div>
         </div>
@@ -77,38 +77,38 @@
               <span class="fa-stack fa-4x">
                   <img class="rounded-circle img-fluid" src="https://image.flaticon.com/icons/svg/993/993062.svg" alt="">               
               </span>
-              <h4 class="service-heading">What is your size?</h4>
+              <h4 class="service-heading">Something...</h4>
               <p class="text-muted">
-              <input type="radio" name="size" value="0" required> 00-4<br>
-              <input type="radio" name="size" value="0" required> 6-14<br>
-              <input type="radio" name="size" value="0" required> 14+
+              <input type="radio" name="size" value="0" required> Sweet<br>
+              <input type="radio" name="size" value="0" required> Salty<br>
+              <input type="radio" name="size" value="0" required> Healthy
             </p>
             </div>
             <div class="col-md-4">
               <span class="fa-stack fa-4x">
                 <img class="rounded-circle img-fluid" src="https://image.flaticon.com/icons/svg/16/16791.svg" alt="">
               </span>
-              <h4 class="service-heading">What's your price range?</h4>
+              <h4 class="service-heading">How Hungary are you?</h4>
               <p class="text-muted">
-                <input type="radio" name="price" value="1" required> $0-$25<br>
-                <input type="radio" name="price" value="2" required> $25-$75<br>
-                <input type="radio" name="price" value="3" required> $75+<br>
+                <input type="radio" name="price" value="1" required> I could use a snack!<br>
+                <input type="radio" name="price" value="2" required> Pretty Hungary!<br>
+                <input type="radio" name="price" value="3" required> Full Course Meal.<br>
               </p>
             </div>
             <div class="col-md-4">
               <span class="fa-stack fa-4x">
                 <img class="rounded-circle img-fluid" src="https://image.flaticon.com/icons/svg/18/18409.svg" alt="">
               </span>
-              <h4 class="service-heading">How would you describe your style?</h4>
+              <h4 class="service-heading">What is it for?</h4>
               <p class="text-muted">
-              <input type="radio" name="style" value="c" required> Casual<br>
-              <input type="radio" name="style" value="p" required> Preppy <br>
-              <input type="radio" name="style" value="t" required> Trendy<br>
+              <input type="radio" name="style" value="c" required> Pre-Workout Snack<br>
+              <input type="radio" name="style" value="p" required> A Long Haul in the Car <br>
+              <input type="radio" name="style" value="t" required> Midnight Snack<br>
               </p>
             </div>
             <div class="container">
               <br>
-              <button class="btn btn-primary btn-xl text-uppercase" type="submit"> Let's find your dream brand! </button>
+              <button class="btn btn-primary btn-xl text-uppercase" type="submit"> Let's Find What you should eat! </button>
             </div>
           </div>
         </form>
