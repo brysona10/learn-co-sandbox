@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Lookin' Good</title>
+    <title>Not Nuts About It</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -30,7 +30,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Lookin' Good</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Not Nuts About It</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
@@ -41,7 +41,7 @@
               <a class="nav-link js-scroll-trigger" href="#services">Quiz</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio">Inspiration</a>
+              <a class="nav-link js-scroll-trigger" href="#portfolio">Brands We Love</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#team">Team</a>
@@ -55,8 +55,8 @@
     <header class="masthead">
       <div class="container">
         <div class="intro-text">
-          <div class="intro-lead-in">Welcome To Lookin' Good!</div>
-          <div class="intro-heading text-uppercase">Prepare to be a Fashionista!</div>
+          <div class="intro-lead-in">Not Nuts About It!</div>
+          <div class="intro-heading text-uppercase"> A Nut Free Site Dedicated to Foods Without Nuts!</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Take the Quiz!</a>
         </div>
       </div>
